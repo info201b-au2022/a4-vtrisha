@@ -1,1 +1,23 @@
+## Assignment 3 - Incarceration (Data Visualization)
+author: Trisha Vidyanand
 
+date: November 19, 2021
+
+### Introduction
+The report focuses on finding trends in incineration in the United States of America using county level data that focuses on jail incarceration between 1980 to 2018. As the population of the United States of America increases, the jail incarceration rate has also been increasing alongside it. The report will be focused on the rate of incarceration by finding different variables and trends and presenting them in both the following paragraph (for the variables) and the different charts to provide a more visual understanding of the trends. For trends I focused on male vs female inmate population as well as the growth of the United States Prison Population in general and focusing on different states.
+
+### Data Summary
+The first variable that I chose to analyze was the jail population in 2018 which is the most recent year in the dataset. I used dplyr to help figure out and better understand the state that had the most jail population in 2018 and found this to be California. The second variable that I chose to analyze was the year in which there was the highest amount jail incarceration. I was able to do this through getting the row with the highest jail population in total and found this to be 1993. Finally, my last variable that I chose to analyze was which state had the highest population of black people incarcerated in 2018 in the United States. We found this to be California.
+
+### Growth of the U.S. Prison Population
+My bar graph was not working as intended so I chose to use a line graph to show the growth of the jail incarceration rate from the year 1970 to the year 2018. We can see through this line graph that the incarceration rate has been going up steadily almost in a straight line from 1970.   
+
+### Growth of Prison Population by State
+I chose to use the states California, Oregon, Washington and New York to compare jail populations. Through my graph we can see that California had the highest total jail population in comparison to the other states, which makes sense with the variable that we found earlier. New York had the second highest of the four followed by Washington and then Oregon.
+
+### Variable Comparison
+The jail population between male and female is something that I thought would be a very interesting thing to analyze. I found the decrease in male inmates during the years 2008 to 2018 to be very interesting compared to the increase in female inmates during this same time. While the total population of jail incarcerations started to go down the female jail population only went down a very insignificant amount while the male jail population decreased drastically.
+
+### Map
+
+I chose to include a map of all of the states in the United States to see how the states compared in population of Black people being incarcerated.  We can see in the map that the state with the highest amount of Black people incarcerated through these years was Texas, as it is the most red out of all of the states. We can see this compared to the other states which are either a lighter red or white.
